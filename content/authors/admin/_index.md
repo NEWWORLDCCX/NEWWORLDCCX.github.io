@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chenxuan Cao (曹晨炫)
+title: Chenxuan Cao<br>(曹晨炫)
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu

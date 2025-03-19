@@ -81,7 +81,7 @@ sections:
           company_logo: zju
           location: Hangzhou
           date_start: '2021-09-01'
-          date_end: '2025-6-30'
+          date_end: ''
           description: Studying.
     design:
       columns: '2'

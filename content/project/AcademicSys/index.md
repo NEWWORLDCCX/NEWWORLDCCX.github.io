@@ -1,6 +1,6 @@
 ---
 title: AcademicSys
-date: 2024-6-26
+date: 2024-06-26
 external_link: https://github.com/NEWWORLDCCX
 tags:
   - Vue

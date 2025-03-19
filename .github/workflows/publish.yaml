@@ -51,6 +51,11 @@ jobs:
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Check public directory
+        run: |
+          ls -la public
+          echo "Public directory contents:"
+          cat public/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

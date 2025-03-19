@@ -29,16 +29,16 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'collinccx03@outlook.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/CaoChenxua12596
-  - icon: brands/github
-    url: https://github.com/NEWWORLDCCX
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+# profiles:
+#   - icon: at-symbol
+#     url: 'collinccx03@outlook.com'
+#     label: E-mail Me
+#   - icon: brands/x
+#     url: https://x.com/CaoChenxua12596
+#   - icon: brands/github
+#     url: https://github.com/NEWWORLDCCX
+#   - icon: academicons/google-scholar
+#     url: https://scholar.google.com/
 
 interests:
   - Computer Vision
@@ -50,16 +50,16 @@ education:
       institution: Zhejiang University
       year: 2025
 
-work:
-  - position: undergraduate student
-    company_name: Zhejiang University
-    company_url: 'https://www.zju.edu.cn/'
-    company_logo: 'zju'
-    date_start: 2021-09-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Studying
+# work:
+#   - position: undergraduate student
+#     company_name: Zhejiang University
+#     company_url: 'https://www.zju.edu.cn/'
+#     company_logo: 'zju'
+#     date_start: 2021-09-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - Studying
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

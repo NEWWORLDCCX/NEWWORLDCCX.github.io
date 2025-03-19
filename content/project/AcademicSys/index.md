@@ -1,11 +1,10 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: AcademicSys
+date: 2024-6-26
+external_link: https://github.com/NEWWORLDCCX
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Vue
+  - Java
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
